@@ -1,0 +1,11 @@
+### List all Books
+GET http://localhost:4004/bookshop/Books
+
+### Only open Books
+GET http://localhost:4004/bookshop/OpenBooks
+
+### Create a Book
+POST http://localhost:4004/bookshop/Books
+Content-Type: application/json
+
+{ "title": "New Book", "amount": 1234.50, "currency_code": "EUR" }
