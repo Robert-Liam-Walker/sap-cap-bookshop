@@ -1,9 +1,9 @@
 ID;title;status;amount;currency_code;dueDate;description
-7d663bec-5e99-4d1f-beea-a07297b5213b;Book 1;Open;5508.00;EUR;2026-09-25;Sample Book number 1 in the Bookshop domain
-ded1563c-3e97-47c2-a0e5-484bd590ac5c;Book 2;Submitted;3896.00;EUR;2026-08-10;Sample Book number 2 in the Bookshop domain
-8c73b2fd-5e84-4806-a67c-8042defe2b44;Book 3;Approved;6109.00;EUR;2026-08-30;Sample Book number 3 in the Bookshop domain
-fdb4d35e-30ac-424f-bb33-55c24f5b276f;Book 4;Closed;4634.00;EUR;2026-09-27;Sample Book number 4 in the Bookshop domain
-1267e54b-77de-4639-8813-7a34390dbf10;Book 5;Open;4774.00;EUR;2026-11-28;Sample Book number 5 in the Bookshop domain
-e0af515e-55a0-483c-9c4d-36b04b449b19;Book 6;Submitted;2696.00;EUR;2026-08-26;Sample Book number 6 in the Bookshop domain
-a14cff1b-80ac-46c5-aeb3-428a4ee801fd;Book 7;Approved;9828.00;EUR;2026-09-23;Sample Book number 7 in the Bookshop domain
-b60b8cde-fb30-4508-9735-54fea616f8a7;Book 8;Closed;4261.00;EUR;2026-07-26;Sample Book number 8 in the Bookshop domain
+7a580eed-c7c9-4f87-a96e-54395cd1004a;Book 1;Open;3538.00;EUR;2026-11-08;Sample Book number 1 in the Bookshop domain
+2765468e-bd0e-4ef5-a555-61e7ac9c1fb1;Book 2;Submitted;1873.00;EUR;2026-10-18;Sample Book number 2 in the Bookshop domain
+5a04e127-fce3-43ef-a210-5cfc5e8fdbe4;Book 3;Approved;5813.00;EUR;2026-07-11;Sample Book number 3 in the Bookshop domain
+f4d46732-9999-41aa-819e-067b1e3e967e;Book 4;Closed;4065.00;EUR;2026-07-04;Sample Book number 4 in the Bookshop domain
+71c784cc-bed3-41b1-ab2c-88615ab0a3c2;Book 5;Open;5332.00;EUR;2026-08-31;Sample Book number 5 in the Bookshop domain
+7b5ea7f4-66af-40e0-8be5-f8a754114484;Book 6;Submitted;3395.00;EUR;2026-09-28;Sample Book number 6 in the Bookshop domain
+aadb2a32-f1c9-4dd0-b0e7-0a3527c5f75f;Book 7;Approved;6156.00;EUR;2026-09-05;Sample Book number 7 in the Bookshop domain
+bc69fb4f-04c6-4552-9484-0b75824c5f0b;Book 8;Closed;4221.00;EUR;2026-10-26;Sample Book number 8 in the Bookshop domain
